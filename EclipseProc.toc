@@ -1,0 +1,8 @@
+## Interface: 30000
+## Title: EclipseProc
+## Author: Ettan & Neav
+## Notes: A simple Eclipse cooldown timer
+
+EclipseProcConfig.lua
+SolarEclipse.lua
+LunarEclipse.lua
